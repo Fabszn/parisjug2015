@@ -1,7 +1,5 @@
-CodeurEnSeine2014
-=================
+parisjug2015
+============
 
-need = sbt 0.13.0; scala 2.10.3
+présentation parisJug 2015
 
-
-Présentation Codeur en Seine
